@@ -87,3 +87,16 @@ Data Scientist | Machine Learning | Python
 
 Kaggle: https://www.kaggle.com/code/hammadansari7/exim-bank-authorizations-eda
 
+### Tips for Best Results:
+
+1. Replace `yourusername` with your actual GitHub username
+2. Add real screenshots later (very important for GitHub)
+3. Create a `requirements.txt` file with:
+
+
+Would you like me to:
+- Make a shorter version?
+- Add a Table of Contents?
+- Include more sections (like Methodology or Limitations)?
+
+Just let me know how you want to adjust it!
